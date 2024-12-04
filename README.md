@@ -18,6 +18,11 @@ I'm Aman - Senior UI Developer at [@jimdo](http://github.com/jimdo). I love to r
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankumarsaini28)](https://github.com/amankumarsaini28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsaini28&layout=compact)
+
+<br />
+
 <img src="./images/footer-tech.png">
 
 <br />
