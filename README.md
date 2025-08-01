@@ -5,7 +5,7 @@
 
 ## Hello World 👋🏼
 
-I'm Aman - Senior UI Developer at [@jimdo](http://github.com/jimdo). I love to read and talk about React, GraphQL, Microfrontends. If you have some weired use caeses to solve I can help.
+I'm Aman - SSE at [@Atlassian](http://github.com/atlassian). I love to read and talk about React, GraphQL, Microfrontends. If you have some weired use caeses to solve I can help.
 
 ## Things I do
 
@@ -14,7 +14,8 @@ I'm Aman - Senior UI Developer at [@jimdo](http://github.com/jimdo). I love to r
 - GraphQL
 - Angular to React Migraion
 - Ionic to React Native Migration
-- Coaching teams to use GraphQL
+- GraphQL Coaching
+- Mentor
 
 <br />
 
@@ -26,6 +27,8 @@ I'm Aman - Senior UI Developer at [@jimdo](http://github.com/jimdo). I love to r
 <img src="./images/footer-tech.png">
 
 <br />
+
+⚙️ My Neovim Config [amankumarsaini28/neovim](https://github.com/amankumarsaini28/neovim)
 
 👉🏼 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/thejsguy)
 
